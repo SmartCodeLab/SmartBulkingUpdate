@@ -21,7 +21,7 @@ compile 'com.smart.bulkingupdate:bulkingpatch:1.0.1'
 ## About Me
 
 - **QQ：** 645318955  
-- **简书： ** [妙铃子](http://www.jianshu.com/users/03ece7ed904a/latest_articles)
+- **简书：** [妙铃子](http://www.jianshu.com/users/03ece7ed904a/latest_articles)
 - **Blog：** [妙铃子](http://blog.csdn.net/miaolingzi)
 - **Email：** fengjianhui1989@gmail.com
 
